@@ -34,7 +34,7 @@ cp .env.example .env
     - Secret Key.
     - Test Token Provider Endpoint
 
-- Update your .env file with th credemtials above.
+- Update your .env file with th credentials above.
 - On your chatkit console, create a number of users including -`trbot` which will stand in as our bot.
 - Also, create some rooms from the console.
 - Next, create a GCP project:
