@@ -1,6 +1,6 @@
 # How to integrate a multilingual chatbot into your Chatkit App using Vue
 
-This is a demo application showing how to build a Chatbot to your Chatkit app. You can read the tutorial on how it was built [here](https://pusher.com/])
+This is a demo application showing how to add a Chatbot to your Chatkit app. You can read the tutorial on how it was built [here](https://pusher.com/])
 
 ![Sample working example](./screenshots/trbot.gif)
 
